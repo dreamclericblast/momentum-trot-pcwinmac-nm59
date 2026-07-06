@@ -1,4 +1,4 @@
-# 
+# 专业 动量交易机器人 预设 for Mac OS | VIP 动量交易机器人 预设 for PC Windows. Featuring 动量分析 and 均值回归策略 — optimized for maximum performance.
 
 
 
